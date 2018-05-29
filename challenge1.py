@@ -37,3 +37,15 @@ def sort_mixed_type(iter):
         a sorted list; e.g. iter = [3, 4.15, '4.15', '12', 13.3, 507]
     '''
     pass
+
+
+def is_palindrome(word):
+    '''
+    Detect whether word is a palidrome or not
+
+    Input
+        word: STR
+    Output
+        a boolean
+    '''
+    pass

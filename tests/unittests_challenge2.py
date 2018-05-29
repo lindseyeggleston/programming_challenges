@@ -1,3 +1,9 @@
+'''
+Unittest for Challenge 2
+To run the test in the terminal, go to root directory (programming_challenges/),
+open iPython, and run `make two`
+'''
+
 import unittest
 from programming_challenges import challenge2 as c2
 
