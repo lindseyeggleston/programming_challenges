@@ -1,7 +1,7 @@
 '''
 Unittest for Challenge 3
-To run the test in the terminal, go to root directory (programming_challenges/),
-open iPython, and run `make three`
+To run the test in the terminal, go to root directory (programming_challenges/)
+and run `make three`
 '''
 
 import unittest

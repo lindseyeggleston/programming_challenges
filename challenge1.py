@@ -1,4 +1,14 @@
-'''Instructions for this challenge'''
+'''
+Challenge:
+---------
+Instructions for this challenge. You may create helper functions, but DO NOT
+change the name of the given functions
+
+Testing:
+-------
+To test this script in the terminal, go to root directory
+(programming_challenges/) and run `make one`.
+'''
 
 def sort_elements(iter):
     '''
@@ -47,5 +57,17 @@ def is_palindrome(word):
         word: STR
     Output
         a boolean
+    '''
+    pass
+
+
+def reverse(iter):
+    '''
+    Reverses the order of either a list or a string
+
+    Input
+        iter: LIST or STR
+    Output
+        a reversed list or string
     '''
     pass

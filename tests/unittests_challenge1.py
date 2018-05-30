@@ -1,7 +1,7 @@
 '''
 Unittest for Challenge 1
-To run the test in the terminal, go to root directory (programming_challenges/),
-open iPython, and run `make one`
+To run the test in the terminal, go to root directory (programming_challenges/)
+and run `make one`
 '''
 
 import unittest
