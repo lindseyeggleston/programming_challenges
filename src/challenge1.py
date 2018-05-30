@@ -7,7 +7,7 @@ change the name of the given functions.
 Testing:
 -------
 To test this script in the terminal, go to root directory
-(programming_challenges/) and run `make one`.
+(programming_challenges/) and run `make test1`.
 '''
 
 def sort_elements(iter):

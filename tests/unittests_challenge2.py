@@ -1,7 +1,7 @@
 '''
 Unittest for Challenge 2
 To run the test in the terminal, go to root directory (programming_challenges/)
-and run `make two`
+and run `make test2`
 '''
 
 import unittest

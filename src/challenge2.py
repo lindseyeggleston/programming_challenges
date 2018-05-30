@@ -7,7 +7,7 @@ change the name of the given functions.
 Testing:
 -------
 To test this script in the terminal, go to root directory
-(programming_challenges/) and run `make two`.
+(programming_challenges/) and run `make test2`.
 Note: There is no test for 'guess_number()'. Please run through your function
 several times to test it yourself.
 '''

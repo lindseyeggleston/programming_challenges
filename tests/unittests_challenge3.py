@@ -1,7 +1,7 @@
 '''
 Unittest for Challenge 3
 To run the test in the terminal, go to root directory (programming_challenges/)
-and run `make three`
+and run `make test3`
 '''
 
 import unittest

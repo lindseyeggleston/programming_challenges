@@ -8,6 +8,6 @@ To run the test suite for the first challenge, type one of the below commands in
 
 Script to test | Terminal command
 ---------------|-----------------
-challenge1.py  | `make one`
-challenge2.py  | `make two`
-challenge3.py  | `make three`
+challenge1.py  | `make test1`
+challenge2.py  | `make test2`
+challenge3.py  | `make test3`
