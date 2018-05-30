@@ -2,7 +2,7 @@
 Challenge:
 ---------
 Instructions for this challenge. You may create helper functions, but DO NOT
-change the name of the given functions
+change the name of the given functions.
 
 Testing:
 -------
