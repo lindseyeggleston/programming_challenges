@@ -1,8 +1,8 @@
 '''
 Challenge:
 ---------
-Instructions for this challenge. You may create helper functions, but DO NOT
-change the name of the given functions.
+Insert your code in each function below. You may create helper functions, but
+DO NOT change the name of the given functions.
 
 Testing:
 -------
