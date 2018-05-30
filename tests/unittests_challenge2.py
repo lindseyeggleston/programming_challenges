@@ -5,7 +5,7 @@ and run `make two`
 '''
 
 import unittest
-from programming_challenges import challenge2 as c2
+from src import challenge2 as c2
 
 
 class TestPractice(unittest.TestCase):

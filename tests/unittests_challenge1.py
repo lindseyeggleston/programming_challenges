@@ -5,7 +5,7 @@ and run `make one`
 '''
 
 import unittest
-from programming_challenges import challenge1 as c1
+from src import challenge1 as c1
 
 
 class TestPractice(unittest.TestCase):

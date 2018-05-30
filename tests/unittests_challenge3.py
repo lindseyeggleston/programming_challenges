@@ -5,7 +5,7 @@ and run `make three`
 '''
 
 import unittest
-from programming_challenges import challenge3 as c3
+from src import challenge3 as c3
 
 
 class TestPractice(unittest.TestCase):
