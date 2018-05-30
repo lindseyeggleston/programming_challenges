@@ -39,6 +39,14 @@ class TestPractice(unittest.TestCase):
         result = c1.is_palindrome('elephant')
         self.assertTrue(not result)
 
+    def test_reverse(self):
+        result = c1.reverse('elephant')
+        self.assertEqual(result, 'tnahpele')
+        result = c1.reverse(list(range(10)))
+        self.assertEqual(result, list(range(9, -1, -1)))
+        result = c1.reverse([1054, '3.14', -1, 27, 3.14, '-1', '69005'])
+        answer = ['69005', '-1', 3.14, 27, -1, '3.14', 1054]
+        self.assertEqual(result, answer)
 
 if __name__ == '__main__':
     unittest.main()
