@@ -10,4 +10,3 @@ Script to test | Terminal command
 ---------------|-----------------
 challenge1.py  | `make test1`
 challenge2.py  | `make test2`
-challenge3.py  | `make test3`
