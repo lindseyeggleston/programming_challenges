@@ -18,7 +18,7 @@ class TestPractice(unittest.TestCase):
         self.assertEqual(result, [])
 
     def test_sort_unique(self):
-        result = c1.sort_elements([1054, 3.14, -1, 27, 3.14, -1, 69005])
+        result = c1.sort_unique([1054, 3.14, -1, 27, 3.14, -1, 69005])
         answer = [-1, 3.14, 27, 1054, 69005]
         self.assertEqual(result, answer)
         result = c1.sort_unique([])
